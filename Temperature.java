@@ -57,7 +57,6 @@ public class Temperature {
 
             }
             if(choice <7) {
-                //System.out.println("The temperature in " + temp + " is %.2f\n" + ans);
                 System.out.printf("The temperature in %s is %.2f\n", temp, ans);
             }
             System.out.print("Enter your choice : ");
