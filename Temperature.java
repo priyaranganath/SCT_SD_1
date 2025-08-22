@@ -64,5 +64,5 @@ public class Temperature {
             choice= sc.nextInt();
         }
 
-        }
+    }
 }
